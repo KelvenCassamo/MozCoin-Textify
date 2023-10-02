@@ -106,7 +106,11 @@ Aqui irei apresentar o código contido no arquivo `config.json`` e explicarei a 
 
 				"Address": "Marracuene, Agostinho Neto. Avenida de Mocambique."
 
-	}
+	},
+    "build": {
+        "version": "1.0.0",
+        "name": "BETA"
+    }
 
 }
 ````
