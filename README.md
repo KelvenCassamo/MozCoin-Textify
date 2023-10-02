@@ -163,8 +163,8 @@ Para qualquer dúvida pessoal ou caso queira conhecer-me, sinta-se à vontade pa
 -   **Nome:** Kelven Cassamo Sulemane
 -   **E-mail:** kelvencassamo9@gmail.com
 -   **Chamadas:** (+258) 878920441
--   **Whatsapp:** (+258) 844920441
--   **Link para o chat do Whatsapp:** 
+-   **Whatsapp:** [(+258) 844920441](https://api.whatsapp.com/send?phone=+258844920441)
+-   **Link para o chat do Whatsapp:** https://api.whatsapp.com/send?phone=+258844920441
 -   **GitHub:** https://github.com/KelvenCassamo
 
 
