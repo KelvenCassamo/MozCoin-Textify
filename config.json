@@ -1,0 +1,25 @@
+{
+    "data":
+    {
+        "currencySymbol": "MT",
+        "separadorDecimal" : ".",
+        "thousandsSeparator": ",",
+        "unit" : "Metical",
+        "subunit": "Centavo",
+        "unitsingular" : "metical",
+        "unitplural" : "meticais",
+        "subunitsingular" : "centavo",
+        "subunitplural" : "centavos",
+        "conjuncao" : "e"        
+    }
+,
+"author":{
+    "name": "Kelven Cassamo",
+    "tel": "(+258) 844920441",
+    "email": "kelvencassamo9@gmail.com",
+    "github": "",
+    "Adress": "Mozambique, Maputo, Marracuene."
+}
+
+
+}
