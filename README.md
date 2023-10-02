@@ -59,8 +59,8 @@ console.error("Ocorreu um erro ao representar err:[" + erro+"]");
 
 
 ## Configuração
-O arquivo `config.json` é essencial para definir as configurações que o função ``extenso()`` utiliza ao transformar valores numéricos para moeda moçambicana por extenso.
-No arquivo ``config.json``, especifiquei alguns detalhes como o **separador decimal** (por exemplo, o ponto ou a vírgula), o **símbolo da moeda** (que é o "MT"), o **separador de milhares** (como vírgula) e outros que serão apresentados abaixo.
+O arquivo `config.json` é essencial para definir as configurações que a função ``extenso()`` utiliza ao transformar valores numéricos para moeda moçambicana por extenso.
+No arquivo `config.json`, especifiquei alguns detalhes como o **separador decimal** (por exemplo, o ponto ou a vírgula), o **símbolo da moeda** (que é o "MT"), o **separador de milhares** (como vírgula) e outros que serão apresentados abaixo.
 
 Aqui irei apresentar o código contido no arquivo `config.json`` e explicarei a função de cada chave.
 ````json
