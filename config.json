@@ -19,5 +19,9 @@
         "email": "kelvencassamo9@gmail.com",
         "github": "https://github.com/KelvenCassamo",
         "Address": "Marracuene, Agostinho Neto. Avenida de Mocambique."
+    },
+    "build": {
+        "version": "1.0.0",
+        "name": "BET"
     }
 }
