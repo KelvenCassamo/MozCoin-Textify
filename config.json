@@ -1,25 +1,23 @@
 {
-    "data":
-    {
+    "data": {
         "currencySymbol": "MT",
-        "separadorDecimal" : ".",
-        "thousandsSeparator": ",",
-        "unit" : "Metical",
+        "separadorDecimal": ".",
+        "separadorDeMilhares": ",",
+        "unit": "Metical",
         "subunit": "Centavo",
-        "unitsingular" : "metical",
-        "unitplural" : "meticais",
-        "subunitsingular" : "centavo",
-        "subunitplural" : "centavos",
-        "conjuncao" : "e"        
+        "unitsingular": "metical",
+        "unitplural": "meticais",
+        "subunitsingular": "centavo",
+        "subunitplural": "centavos",
+        "conjuncao": "e",
+        "conjuncaoSymbol": "&"
+    },
+    "author": {
+        "name": "Kelven Cassamo",
+        "tel": "(+258) 844920441",
+        "tel_alt": "(+258) 878920441",
+        "email": "kelvencassamo9@gmail.com",
+        "github": "https://github.com/KelvenCassamo",
+        "Address": "Marracuene, Agostinho Neto. Avenida de Mocambique."
     }
-,
-"author":{
-    "name": "Kelven Cassamo",
-    "tel": "(+258) 844920441",
-    "email": "kelvencassamo9@gmail.com",
-    "github": "",
-    "Address": "Mozambique, Maputo, Marracuene."
-}
-
-
 }
