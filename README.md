@@ -160,7 +160,7 @@ Processamento -->>Usuário: Retorna o valor por extenso
 ```
 
 
-## Contatos
+## Contactos
 
 Para qualquer dúvida pessoal ou caso queira conhecer-me, sinta-se à vontade para entrar em contato:
 
